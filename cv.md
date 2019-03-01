@@ -9,16 +9,17 @@ Address:  2201140 Timoshenko street, 12-82, Minsk, Belarus.
 
 ## Summary
 
-* Excellent communication (verbal and written) and interpersonal skills; able to communicate effectively to management, users, developers and cross-functional team members;
+* Excellent communication (verbal and written) and interpersonal skills
+* Able to communicate effectively to management, users, developers and cross-functional team members;
 * Well-developed analytical and problem solving skills.  
 
 ## Skills
 
 * Basic knowledge of *C++, PHP, JavaScript, HTML, CSS*;
 * Proficient in *Microsoft Office* including Excel and Powerpoint;
-* *Google Drive, GitHub*.
+* *Google Drive, GitHub basics*.
 
-### *C++ code example*
+### *C++ code example(LU decomposition)*
 
     #include <iostream>
     #include <iomanip>
@@ -175,20 +176,19 @@ Address:  2201140 Timoshenko street, 12-82, Minsk, Belarus.
 
 ## Experience
 
-Yves Rocher Group (3-month in 2018)
-
-Achievements and Contributions:
-1. Customer Service: Responded to incoming calls. Screened telemarketing and direct sales orders.
-2. Administration: Ensured to supervisor for approval.
-3. Records Processing: Entered customer information into internal records management system. 
+1. Tasks on CodeAcademy  
+2. Sololearn courses on JavaScript, CSS, HTML
+3. HTML academy (180 tasks)
 
 ## Education
 
 Belarus State Economic University  
 Faculty of Economics and Management  
+Second course  
 Pending Bachelor’s degree(Expected June 2021)
 
 ## English Level
 
 *Upper-Intermediate level*  
+Centralized testing score: 86   
 Has completed a 144-hour general English Course in a Streamline language school.
