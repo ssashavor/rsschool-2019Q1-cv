@@ -182,7 +182,7 @@ Address:  2201140 Timoshenko street, 12-82, Minsk, Belarus.
 
 ## Education
 
-Belarus State Economic University  
+Belarusian State Economic University  
 Faculty of Economics and Management  
 Second course  
 Pending Bachelor’s degree(Expected June 2021)
