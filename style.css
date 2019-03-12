@@ -25,7 +25,7 @@ h1{
     padding: 13px;
     font-family: "Raleway", "Arial", sans-serif;
     font-size: 80px;
-    color: white;
+    color: #ffffff;
     text-shadow: -2px -2px 0 #4D4644, 2px -2px 0 #4D4644, -2px 2px 0 #4D4644, 2px 2px 0 #4D4644, 4px 4px 0 white, 5px 5px 0 white, 6px 6px 0 white;
     letter-spacing: 0.1em;
 }
@@ -39,7 +39,7 @@ nav{
 .topnav{
     position: relative;
     font-size: 28px;
-    background-color: white;
+    background-color: #ffffff;
 }
 .topnav a{
     padding: 18px 15px;
@@ -59,7 +59,7 @@ nav{
 }
 h2{
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     font-family: "Raleway", "Arial", sans-serif;
     color: black;
     text-shadow: -2px -2px 0 red, 2px -2px 0 #4D4644, -2px 2px 0 red, 2px 2px 0 #4D4644, 4px 4px 0 white, 5px 5px 0 white, 6px 6px 0 white;
@@ -114,7 +114,7 @@ span{
     border-color: red;
 }
 .border li:nth-child(3){
-    border-color: black;
+    border-color: #000000;
 }
 .border li:nth-child(4){
     border-color: red;
@@ -133,7 +133,7 @@ span{
     background-color: #000000;
 }
 .experience{
-    background-color: black;
+    background-color: #000000;
 }
 .experience li{
     padding-left: 20px;
@@ -145,15 +145,15 @@ span{
 .english{
     font-family: "Raleway", "Arial", sans-serif;
     font-size: 25px;
-    color: black;
+    color: #000000;
     text-align: center;
 }
 footer{
     position: relative;
     height: auto;
     top: 20px;
-    background-color: black;
+    background-color: #000000;
 }
 footer p{
-    color: white;
+    color: #ffffff;
 }
