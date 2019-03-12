@@ -31,10 +31,10 @@ h1{
 }
 nav{
     box-sizing: border-box;
-    margin: auto;
     width: 1024px;
     height: 82px;
     max-width: 100%;
+    margin: auto;
 }
 .topnav{
     position: relative;
@@ -61,15 +61,15 @@ h2{
     padding-top: 10px;
     padding-bottom: 15px;
     font-family: "Raleway", "Arial", sans-serif;
-    color: black;
+    color: #000000;
     text-shadow: -2px -2px 0 red, 2px -2px 0 #4D4644, -2px 2px 0 red, 2px 2px 0 #4D4644, 4px 4px 0 white, 5px 5px 0 white, 6px 6px 0 white;
     letter-spacing: 0.1em;
     font-size: 30px;
     text-align: center;
 }
 .wrapper{
-    margin: auto;
     width: 1024px;
+    margin: auto;
 }
 .contacts{
     display: flex;
@@ -79,8 +79,8 @@ h2{
     position: relative;
     left: 1%;
     top: 29px;
-    font-size: 25px;
     font-family: "Raleway", "Arial", sans-serif;
+    font-size: 25px;
 }
 span{
     display: inline-block;
@@ -97,7 +97,6 @@ span{
 }
 .border{
     padding: 0;
-    list-style: none;
 }
 .border li{
     padding: 7px 20px;
@@ -105,8 +104,8 @@ span{
     border-radius: 5px;
     border-left: 10px solid black; 
     box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1), -2px -2px 5px 0 rgba(0,0,0,.1), 2px 2px 5px 0 rgba(0,0,0,.1), -2px 2px 5px 0 rgba(0,0,0,.1);
-    font-size: 20px;
     font-family: "Raleway", "Arial", sans-serif;
+    font-size: 20px;
     letter-spacing: 2px;
     transition: 0.3s all linear;
 }
